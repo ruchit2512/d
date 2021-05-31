@@ -1,4 +1,6 @@
 [core]
-    remote = s1
+    remote = s2
 ['remote "s1"']
     url = gdrive://1QgPxQFuzLOBs65xWY-09_IcCTSnW6LHI
+['remote "s2"']
+    url = gdrive://1Ma2mqIEfEUF2q_V07ZrY-s5iCPy-Tdvi
